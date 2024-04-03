@@ -6,7 +6,7 @@
   elements:
   - title: Churn Rate
     name: Churn Rate
-    model: ml-accelerator-tutorials
+    model: ml-accelerator-tutorials/ml-accelerator-tutorials
     explore: telco_customer_churn
     type: single_value
     fields: [customer.churn_rate, customer.churn_count, customer.customer_count]
